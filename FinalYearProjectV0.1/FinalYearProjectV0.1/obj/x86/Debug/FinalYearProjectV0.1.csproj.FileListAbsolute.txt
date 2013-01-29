@@ -1,0 +1,9 @@
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\bin\x86\Debug\Content\PlayerShip.xnb
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\bin\x86\Debug\FinalYearProjectV0.1.exe
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\bin\x86\Debug\FinalYearProjectV0.1.pdb
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\obj\x86\Debug\FinalYearProjectV0.1.exe
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\obj\x86\Debug\FinalYearProjectV0.1.pdb
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Karl\Documents\College Year 4\FYP\FinalYearProjectV0.1\FinalYearProjectV0.1\FinalYearProjectV0.1\bin\x86\Debug\Content\Bar.xnb
